@@ -51,7 +51,7 @@ my-website/
 
  🔗 Live Demo 
 
-👉 View the live website here
+👉 View the live website here https://ron3476.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
 
 ✨ Author
 
